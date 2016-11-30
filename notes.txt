@@ -1,0 +1,9 @@
+1. +5 Dexterity Vest
+2. Aged Brie
+3. Elixir of the Mongoose
+4. Sulfuras
+5. Backstage passes
+
+Dexterity and Elixir have same code paths.
+Nothing gets executed for Sulfuras.
+Compare aged brie with backstage. The first half of the method has similar code paths. The lower part of the method needs to go one more level in nested if-else for backstage pass.
